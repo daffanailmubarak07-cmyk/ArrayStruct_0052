@@ -14,4 +14,9 @@ struct orang
     int umur;
 };
 
-
+int main()
+{
+// deklarasi object dari struct orang
+    orang mhs;
+// isi object
+   
