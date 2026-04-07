@@ -7,4 +7,11 @@ struct detailalamat
     string kota;
 };
 
+struct orang 
+{
+    string nama;
+    detailalamat alamat;
+    int umur;
+};
+
 
